@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 120" width="680" height="120" role="img" aria-labelledby="titulo">
+  <title id="titulo">potencia-sprint-01: exercícios práticos da Sprint 1 do Potenc.IA, com 6 exercícios de Automação, 17 de Comunicação e 15 de Decisão</title>
+  <rect width="680" height="120" rx="8" fill="#FBEAF0"/>
+  <rect x="28" y="14" width="84" height="22" rx="11" fill="#D4537E"/>
+  <text x="70" y="29" font-size="12" fill="#FBEAF0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">Sprint 01</text>
+  <text x="28" y="70" font-size="30" font-weight="600" fill="#4B1528" font-family="Segoe UI, Arial, sans-serif">potencia-sprint-01</text>
+  <text x="28" y="96" font-size="14" fill="#993556" font-family="Segoe UI, Arial, sans-serif">Exercícios práticos da Sprint 1 · Potenc.IA</text>
+  <line x1="484" y1="16" x2="484" y2="104" stroke="#ED93B1" stroke-width="2"/>
+  <text x="472" y="37" font-size="12" fill="#72243E" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Automação</text>
+  <text x="472" y="65" font-size="12" fill="#72243E" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Comunicação</text>
+  <text x="472" y="93" font-size="12" fill="#72243E" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Decisão</text>
+  <rect x="488" y="25" width="54" height="16" rx="3" fill="#ED93B1"/>
+  <rect x="488" y="53" width="153" height="16" rx="3" fill="#D4537E"/>
+  <rect x="488" y="81" width="135" height="16" rx="3" fill="#993556"/>
+  <text x="550" y="37" font-size="12" fill="#72243E" font-family="Segoe UI, Arial, sans-serif">6</text>
+  <text x="649" y="65" font-size="12" fill="#72243E" font-family="Segoe UI, Arial, sans-serif">17</text>
+  <text x="631" y="93" font-size="12" fill="#72243E" font-family="Segoe UI, Arial, sans-serif">15</text>
+</svg>
