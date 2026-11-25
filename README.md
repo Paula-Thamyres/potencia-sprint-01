@@ -19,3 +19,17 @@ As práticas são de dois tipos:
 
 Quando o enunciado traz uma etapa em ferramenta própria (Gamma, Canva, Notion AI, Make, Miro, vídeo), o arquivo do exercício registra o que foi feito nela.
 
+## Exercícios publicados
+
+### Comunicação Estratégica
+
+| Nº | Tipo | Exercício | Ferramenta |
+| --- | --- | --- | --- |
+| 04.3 | Fixa | [Apresentação de 5 tópicos sobre logística](02-comunicacao-estrategica/04-3-apresentacao-de-5-topicos-logistica.md) | Gamma.app |
+| 06.2 | Fixa | [Apresentação de 5 slides para melhoria de processo](02-comunicacao-estrategica/06-2-apresentacao-de-5-slides.md) | Gamma.app |
+
+## Como os exercícios foram feitos
+
+Os textos foram gerados com o Claude. Os slides citam ChatGPT e Gemini nos enunciados, e eu usei o Claude no lugar. As ferramentas que fazem um trabalho próprio, como Gamma, Canva, Make, Miro e as de vídeo, continuam com o nome que está nos slides.
+
+Os casos fictícios, as empresas inventadas e os números simulados estão sempre indicados no próprio exercício.
